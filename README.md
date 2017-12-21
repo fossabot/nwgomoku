@@ -1,9 +1,9 @@
-
 # nwgomoku
 [![BuildStatus](https://travis-ci.org/nicholascw/nwgomoku.svg?branch=master)](https://travis-ci.org/nicholascw/nwgomoku)
 [![GitHubLicense](https://img.shields.io/github/license/nicholascw/nwgomoku.svg)](https://github.com/nicholascw/nwgomoku/blob/master/LICENSE)
 [![GitHubIssues](https://img.shields.io/github/issues/nicholascw/nwgomoku.svg)](https://github.com/nicholascw/nwgomoku/issues)
-[![GitHubRepoSize](https://img.shields.io/github/repo-size/nicholascw/nwgomoku.svg)]()
+[![GitHubRepoSize](https://img.shields.io/github/repo-size/nicholascw/nwgomoku.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnicholascw%2Fnwgomoku.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnicholascw%2Fnwgomoku?ref=badge_shield)
+()
 [![Java](https://img.shields.io/badge/language-java-orange.svg)]()
 
 
@@ -65,3 +65,7 @@ $ java gomoku version
 ### Advanced Usage
     Share your console session through SSH or telnet, then view the same session by screen's screen -x option.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnicholascw%2Fnwgomoku.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnicholascw%2Fnwgomoku?ref=badge_large)
